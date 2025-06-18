@@ -5,3 +5,4 @@ Repository to trainning Github.
 Exemplos de aplicações utilizando o Markdown do Github.
 
 - [Títulos](titulos.md)
+- [Estilos de Texto](estilos.md)
