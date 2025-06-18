@@ -6,10 +6,10 @@
 
 <!-- Markdown -->
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=vue)
 
 <!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api?theme=monokai" alt="Jokes Card" />
 
 Créditos a [README Jokes][jokes]
 
