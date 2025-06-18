@@ -1,6 +1,7 @@
 # Training Repository
 Repository to trainning Github.
 
-#### This repository will be delete.
+## Template Markdown 
+Exemplos de aplicações utilizando o Markdown do Github.
 
-:rocket:
+- [Títulos](titulos.md)
