@@ -1,7 +1,7 @@
 # Badges
 
 ## m3 Markdown Badges
-Créditos a [m3 Markdown Badges].(https://github.com/ziadOUA/m3-Markdown-Badges)
+Créditos a [m3 Markdown Badges](https://github.com/ziadOUA/m3-Markdown-Badges).
 
 <img src="https://m3-markdown-badges.vercel.app/stars/4/3/mayannaoliveira/mayannaoliveira">
 
